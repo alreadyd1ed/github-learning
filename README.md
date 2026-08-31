@@ -9,4 +9,4 @@ My first repository for learning Git and GitHub
 
 - [x] 创建第一个仓库
 - [x] 创建第一个分支
-- [ ] 创建第一个 Pull Request
+- [x] 创建第一个 Pull Request
